@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [自顶向下基础知识](TopDown/README.md)
-    * [第一章计算机网络和因特网](TopDown/chapter1/README.MD)
+    * [第一章计算机网络和因特网](TopDown/chapter1/README.md)
         * [1.1什么是因特网](TopDown/chapter1/1.1whatIsInternet.md)
         * [1.2网络边缘](TopDown/chapter1/1.2networkEdge.md)
         * [1.3网络核心](TopDown/chapter1/1.3networkCore.md)
